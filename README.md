@@ -1,12 +1,44 @@
-# React + Vite
+# Alpha Tutoring 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **Where dreams turn into realities**
 
-Currently, two official plugins are available:
+Alpha Tutoring is a responsive single-page educational website built using **Vite + React + Tailwind CSS**. It’s designed to attract and convert students preparing for international exams like **IB, A Level, O Level, AP**, etc., especially from **Europe and the Middle East**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Hosted on Vercel](https://alpha-tutoring.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- ✅ Responsive design (mobile-first)
+- ✅ Smooth scroll navigation
+- ✅ Mobile hamburger menu
+- ✅ Hero section with CTA
+- ✅ About Us with imagery
+- ✅ Testimonials carousel (React Slick)
+- ✅ Contact form (Google Forms embedded)
+- ✅ Tailwind CSS for styling
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Slick](https://react-slick.neostack.com/)
+- [Google Forms](https://www.google.com/forms/about/)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/alpha-tutoring.git
+cd alpha-tutoring
+npm install
+npm run dev
